@@ -1,0 +1,16 @@
+{
+    "token": "MTA1MTg4MjgzMjIyNzc0MTczNg.GNYxtu.fF71RCQ7doIaoN28JuBJ1TR6OYYcGKPRpgnbD0",
+    "developers": {
+      "id": [
+        "GELİŞTİRİCİ ID 1",
+        "GELİŞTİRİCİ ID 2",
+        "GELİŞTİRİCİ ID 3"
+      ]
+    },
+    "helper-dev": {
+      "id": [
+        "yardımcı id 1"
+      ]
+    },
+   "deleteDatabase": false
+}
